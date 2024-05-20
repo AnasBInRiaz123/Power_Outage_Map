@@ -5,7 +5,7 @@ import { GoogleMap, useJsApiLoader, MarkerF, DirectionsRenderer } from '@react-g
 // typescript
 const containerStyle = {
   width: '100%',
-  height: '400px'
+  height: '100vh'
 };
 
 const center = {
